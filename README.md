@@ -11,4 +11,4 @@
 <a href="https://www.instagram.com/rahanwow/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oguzhanaknc_" height="30" width="40" /></a>
 
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.iconfinder.com/icons/4518857/python_icon" alt="css3" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/376344/python" alt="css3" width="40" height="40"/>
